@@ -21,5 +21,5 @@ print (type (age))
 
 
 print()
-#o resultado sera a junção desses dois string
+#o resultado sera concatenar desses dois string
 print("8" + "10")
