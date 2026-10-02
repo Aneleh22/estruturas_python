@@ -5,7 +5,7 @@ os.system('cls')
 # Dicionário de dicionários
 pessoas = [   #tambem pode ser um Tuple() ou List[]. Funciona usando :
     'p1': { 'nome': 'Maria', 'idade': 45, 'conceito': 'A' },
-    'p2': { 'idade': 54, 'nome': 'Joca',  'conceito': 'I'},  #não importa a ordem se o dados estiverem na pessoa e no dado dicinario certo
+    'p2': { 'idade': 54, 'nome': 'Joca',  'conceito': 'I'},  #não importa a ordem se o dados estiverem na pessoa e no dado dicionario certo
     'p3': { 'nome': 'Mariana', 'idade': 27, 'conceito': 'A'}
 ]
 
