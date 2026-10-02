@@ -1,3 +1,5 @@
+# Iniciando coleções
+
 aluna1 = "Maria"
 aluna2 = "Cecília"
 aluna3 = "Celentina"

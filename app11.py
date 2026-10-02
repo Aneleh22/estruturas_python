@@ -1,4 +1,4 @@
-# Dicionário Dict
+# Dicionário Dictionaries
 
 pessoa = {
     'nascimento': "2000-10-08",

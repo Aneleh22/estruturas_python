@@ -1,3 +1,5 @@
+# Entrada do usuário
+
 print ("Hello, Word")
 #str 
 #int 

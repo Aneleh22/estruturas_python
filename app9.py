@@ -3,6 +3,8 @@ import os
 
 os.system('cls')
 
+
+# Uma lista de tuplas
 alunas = [
     ('Maria', '2000-10-14', 'A'),
     ('Joana', '1997-08-10', 'A'),
